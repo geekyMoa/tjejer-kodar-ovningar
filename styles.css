@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #fff;
+  color: #333;
+  font-size: 20px;
+}
+
+h5 {
+  font-size: 20px;
+  font-weight: normal;
+  margin: 0;
+}
+
+li {
+  padding: 0.5em 0;
+}
+
+
+.Wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+}

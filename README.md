@@ -1,1 +1,1 @@
-# exercises
+# Repo för övningar
